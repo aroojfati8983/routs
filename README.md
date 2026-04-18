@@ -6,6 +6,7 @@ A React application using React Router to navigate between multiple product cate
 - 👟 Shoes
 - 👕 Clothes
 - 💄 Makeup
+-  💍 Jewellery
 
 ## Setup
 ```bash
